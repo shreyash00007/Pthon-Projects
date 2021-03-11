@@ -7,4 +7,4 @@
 > ,Subtraction
 > ,Multipication
 
->[Addition](https://github.com/shreyash00007/c-language-basic/blob/main/Calculator.c)
+>[Addition](https://github.com/shreyash00007/Pthon-Projects/blob/main/Addition.py)
