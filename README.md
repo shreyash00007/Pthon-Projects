@@ -15,3 +15,5 @@
 
 >[Division](https://github.com/shreyash00007/Pthon-Projects/blob/main/division.py)
 
+>[Givetake](https://github.com/shreyash00007/Pthon-Projects/blob/main/giveandtake.py)
+
