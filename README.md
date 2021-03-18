@@ -3,9 +3,7 @@
 ## This projects are made to understand some of the basic concepts of python.
 
 ### Some basic calutations
-> Addition
-> ,Subtraction
-> ,Multipication
+> Mathematical Operations using python
 
 >[Addition](https://github.com/shreyash00007/Pthon-Projects/blob/main/Addition.py)
 
